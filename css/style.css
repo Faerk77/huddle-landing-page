@@ -10,7 +10,7 @@
 }
 
 .body{
-    background-image: url(/assets/img/bg-mobile.svg);
+    background-image: url(../assets/img/bg-mobile.svg);
     background-color: var(--Violet);
     background-repeat: no-repeat;
     background-size: contain;
@@ -25,7 +25,7 @@
 
 @media (min-width:600px) {
     .body{
-        background-image: url(/assets/img/bg-desktop.svg);
+        background-image: url(../assets/img/bg-desktop.svg);
         background-size: 92vw 100vh;
         background-repeat: no-repeat;
         gap: 0;
