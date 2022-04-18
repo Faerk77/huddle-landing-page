@@ -28,18 +28,18 @@
 @media (min-width:600px) {
     .body{
         background-image: url(../assets/img/bg-desktop.svg);
-        background-size: 92vw 100vh;
-        /* background-position: center; */
-        /* background-size: contain; */
+        /* background-size: 80% 100%; */
+        background-position: left;
+        background-size: contain;
         background-repeat: no-repeat;
         gap: 0;
         padding: 3rem 4.5rem;
         height: 100vh;
         justify-content: center;
         align-content: center; 
-    }
-    
+    }   
 }
+
 .header{
     padding: 0.5rem 0;
 }
