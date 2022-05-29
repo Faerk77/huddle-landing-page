@@ -163,7 +163,9 @@
         margin-top: 1rem;
     }
     .fa-instagram,.fa-facebook-f,.fa-twitter{
-        width: 19px;
-        height: 19px;
+        width: 17px;
+        height: 17px;
+        margin: 0.15rem;
+        padding: 0.5em;
     }
 }
